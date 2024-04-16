@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Nouvjeu</string>
+
+    <!-- ACCUEIL -->
+    <string name="game_title">Sky Invasion</string>
+    <string name="poly">Polytech 2024</string>
+    <string name="play">Play</string>
+    <string name="highscore">Record :</string>
+
+    <!-- Description imageview-->
+    <string name="descr_back">Background</string>
+
+</resources>
